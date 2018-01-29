@@ -11,7 +11,7 @@ email: kpetey123@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a blog site for people who love to travel and share thier experiences with the world
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.travelbumonline.com" # the base hostname & protocol for your site
+url: "http://travelbumonline.com" # the base hostname & protocol for your site
 github_username:  kpetey123
 
 # Build settings
