@@ -24,6 +24,12 @@
     }
 }
 
+.logo {
+    display: flex;
+    align-items: left;
+    background-image: url('https://s3.amazonaws.com/travelbumonline/Photos/Travelbum+Online.png');
+}    
+
 .site-nav {
     float: right;
     line-height: 56px;
